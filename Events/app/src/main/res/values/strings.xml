@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Post</string>
+    <string name="title_activity_get">get</string>
+    <string name="back">BACK</string>
+</resources>
